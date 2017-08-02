@@ -2,8 +2,8 @@
 
 ReactJS AWS Lex Chat Component
 
-## Screenshot
-<img src="http://i.imgur.com/jaTxe6Y.png" width="50%">
+## Demo
+<img src="https://thumbs.gfycat.com/ShabbyCourageousFalcon-size_restricted.gif" width="50%">
 
 ## Prerequisites
 The AWS Javascript SDK for the browser is required. This package will install the entire SDK, but all you need is AWS.LexRuntime and AWS.CognitoIdentity. We recommend you build your own version of the AWS SDK for JavaScript using the [builder](https://sdk.amazonaws.com/builder/js/) to include only the services you need.
@@ -12,7 +12,7 @@ You will need to set up an AWS Cognito federated identity pool, and pass the Ide
 
 
 
-## Installing the react-lex
+## Installing react-lex
 
 ```
 npm install --save react-lex
@@ -46,7 +46,7 @@ export default App;
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Sabin Bir Bajracharya.
+Copyright (c) 2017.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
