@@ -22036,7 +22036,8 @@ var LexChat = function (_React$Component) {
       var inputStyle = {
         padding: '4px',
         fontSize: 24,
-        width: '394px',
+        width: '388px',
+        height: '40px',
         borderRadius: '1px',
         border: '10px'
       };
@@ -22053,7 +22054,7 @@ var LexChat = function (_React$Component) {
 
       var headerRectStyle = {
         backgroundColor: '#000000',
-        width: '400px',
+        width: '408px',
         height: '40px',
         textAlign: 'center',
         paddingTop: 12,
@@ -22063,7 +22064,8 @@ var LexChat = function (_React$Component) {
       };
 
       var chatcontainerStyle = {
-        backgroundColor: '#FFFFFF'
+        backgroundColor: '#FFFFFF',
+        width: 408
       };
 
       var chatFormStyle = {

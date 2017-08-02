@@ -126,7 +126,8 @@ class LexChat extends React.Component {
     const inputStyle = {
       padding: '4px',
       fontSize: 24,
-      width: '394px',
+      width: '388px',
+      height: '40px',
       borderRadius: '1px',
       border: '10px'
     }
@@ -143,7 +144,7 @@ class LexChat extends React.Component {
 
     const headerRectStyle = {
       backgroundColor: '#000000', 
-      width: '400px', 
+      width: '408px', 
       height: '40px',
       textAlign: 'center',
       paddingTop: 12,
@@ -154,6 +155,7 @@ class LexChat extends React.Component {
 
     const chatcontainerStyle = {
       backgroundColor: '#FFFFFF',
+      width: 408
     }
 
     const chatFormStyle = {

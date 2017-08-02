@@ -24,7 +24,7 @@ npm install --save react-lex
 Example:
 
 ```js
-import LexChat from "./LexChat";
+import LexChat from "react-lex";
 
 class App extends Component {
   render() {
