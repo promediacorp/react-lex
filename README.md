@@ -3,6 +3,10 @@
 ReactJS AWS Lex Chat Component
 
 ## Demo
+
+[http://react-lex.s3-website-us-east-1.amazonaws.com/
+](http://react-lex.s3-website-us-east-1.amazonaws.com/)
+
 <img src="https://thumbs.gfycat.com/ShabbyCourageousFalcon-size_restricted.gif" width="50%">
 
 ## Prerequisites
