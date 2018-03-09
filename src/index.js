@@ -18,7 +18,7 @@ class LexChat extends React.Component {
 
   componentDidMount() {
     document.getElementById("inputField").focus();
-    AWS.config.region = 'us-east-1';
+    AWS.config.region = this.props.region || 'us-east-1';
     AWS.config.credentials = new AWS.CognitoIdentityCredentials({
       IdentityPoolId: this.props.IdentityPoolId,
     });
