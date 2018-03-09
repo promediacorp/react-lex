@@ -38,6 +38,7 @@ class App extends Component {
                  style={{position: 'absolute'}}
                  backgroundColor="#FFFFFF"
                  height="430px"
+                 region="us-east-1"
                  headerText="Chat with our awesome bot" />
   }
 }
